@@ -1,0 +1,96 @@
+body{
+  background-color: #B0926A
+}
+
+.fakeimg {
+    height: 300px;
+    width: 380px;
+    }
+
+  #topbg{
+   margin: 0%;
+   padding: 0%;
+   width: 100%;
+   height:50%;
+   object-fit: contain;
+   
+  }
+
+  #vangogh{
+    margin: 0%;
+    object-fit: contain;
+    background-image: url(https://bayaiyi.com/wp-content/uploads/2020/07/vangoghmuseum-s0176V1962-800.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    box-shadow: 2px 2px 2px ;
+    
+  }
+
+  #cercatrova{
+    margin: 0%;
+    object-fit:fill;
+    background-image: url(https://3.bp.blogspot.com/-LlQXouW7PZ8/XCIJ7QCmIEI/AAAAAAAAMHE/R_2On_B8WMQwJPZ7VK7JBRXLGUzMrn46QCLcBGAs/s640/4CERCA%2BTROVA%2B-%2B%2BARARSAN%2BBULURSUN%2B1.jpeg);
+    background-size: contain;
+    background-repeat: no-repeat;
+   box-shadow: 2px 2px 2px;
+    
+
+  }
+
+  .navbar{
+    background-color: #200f01;
+  }
+
+  h2{
+    font-family: 'Times New Roman';
+    font-weight: bold;
+    color: black;
+    text-shadow: 2px 2px 4px rgba(26, 12, 1, 0.623);
+   
+  }
+
+  p{
+    font-family: Geneva;
+    font-style: italic;
+    text-shadow: 1px 1px 3px  #583E26;
+    color: black;
+  }
+  
+  h3{
+    font-family: 'Times New Roman';
+    font-weight: bold;
+    color: #000000;
+    text-shadow: 2px 2px 4px rgba(26, 12, 1, 0.623);
+  }
+
+  h5{
+    font-family: 'Times New Roman';
+    color: #000000;
+    text-shadow: 2px 2px 4px rgba(26, 12, 1, 0.384);
+    font-style: italic;
+
+  }
+
+  .nav-link{
+    color: #200f01;
+  
+  }
+
+  #footer{
+    background-color: #200f01;
+  }
+
+  #copyright{
+   color:wheat;
+  }
+  .fakeimg2{
+    height: 200px;
+    width: 355px;
+  }
+  
+
+  
+
+ 
+ 
+  
